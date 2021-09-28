@@ -3,7 +3,7 @@ title: 拖布鞋的个人博客
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.tuobuxie.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
@@ -31,7 +31,7 @@ about-author: Engineer
 # Contact links
 email: tuobuxie@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://tuobuxie.github.io # Add your website
+website: https://blog.tuobuxie.com # Add your website
 linkedin:  # Add your Linkedin handle
 github: tuobuxie # Add your Github handle
 twitter:  # Add your Twitter handle
