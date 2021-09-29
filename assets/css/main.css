@@ -451,7 +451,7 @@ table td, table th {
 blockquote {
     border-left: 10px solid var(--grey4);
     padding-left: 1em;
-    margin-left: 2.5em;
+    margin-left: 0;
     font-style: italic;
     color: var(--accent-dark);
     background: var(--grey5);
